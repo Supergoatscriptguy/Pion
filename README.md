@@ -40,7 +40,7 @@ Pion-small (103M) was pretrained on RunPod across a couple of GPU rentals:
 
 Total pretraining: ~22.5K steps on ~750M tokens from [PreprocessedMIXED](https://huggingface.co/datasets/SuperGoatScriptGuy/PreprocessedMIXED). WSD learning rate schedule (warmup-stable-decay).
 
-Checkpoints are on HuggingFace: [SuperGoatScriptGuy/Pion-SavePoint](https://huggingface.co/SuperGoatScriptGuy/Pion-SavePoint)
+Checkpoints are on HuggingFace: [SuperGoatScriptGuy/Pion](https://huggingface.co/SuperGoatScriptGuy/Pion)
 
 ### Pretraining
 
