@@ -1,6 +1,6 @@
 # Pion
 
-Dense transformer language model. No experimental tricks, just every proven technique from recent research applied correctly. Part of the [NeuralML](https://github.com/Supergoatscriptguy) family alongside [Tachyon](https://github.com/Supergoatscriptguy/Tachyon) (MoE) and Lepton (experimental).
+Dense transformer language model. No experimental tricks, just every proven technique from recent research applied correctly. One of the Acceleron series alongside [Tachyon](https://github.com/Supergoatscriptguy/Tachyon) (MoE) and [Lepton](https://github.com/Supergoatscriptguy/Lepton) (experimental).
 
 - **Tachyon** — Mixture of Experts, sparse routing
 - **Lepton** — Experimental (thought tokens, memory, speculative decoding)
