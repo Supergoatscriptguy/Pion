@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.zip
+*.npy
+*.pt
+data/
+checkpoints/
+nul
+
+# RunPod scripts
+run_pod.sh
+setup.py
+resume_pod.py
+sft_setup.py
